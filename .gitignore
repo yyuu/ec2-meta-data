@@ -1,0 +1,11 @@
+## eclipse project files
+/.classpath
+/.project
+/.settings
+
+## vim files
+/.*.swo
+/.*.swp
+
+## maven artifacts
+/target
