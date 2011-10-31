@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.geishatokyo.aws.ec2</groupId>
 	<artifactId>ec2-meta-data</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>ec2-meta-data</name>
 	<packaging>jar</packaging>
 	<licenses>
